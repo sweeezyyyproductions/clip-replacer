@@ -61,3 +61,5 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = FileReplaceApp(root)
     root.mainloop()
+
+# Run the application by executing the script in the terminal or command prompt using the following command: python script.py
